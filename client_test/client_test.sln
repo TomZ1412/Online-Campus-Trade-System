@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "客户端", "client_test\client_test.vcxproj", "{70C20515-A935-4810-AF4A-26E66428EA0E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "客户端", "客户端\客户端.vdproj", "{168669FB-C2E7-495C-941C-BB69AD87D66A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C20515-A935-4810-AF4A-26E66428EA0E}.Debug|x64.ActiveCfg = Debug|x64
+		{70C20515-A935-4810-AF4A-26E66428EA0E}.Debug|x64.Build.0 = Debug|x64
+		{70C20515-A935-4810-AF4A-26E66428EA0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{70C20515-A935-4810-AF4A-26E66428EA0E}.Debug|x86.Build.0 = Debug|Win32
+		{70C20515-A935-4810-AF4A-26E66428EA0E}.Release|x64.ActiveCfg = Release|x64
+		{70C20515-A935-4810-AF4A-26E66428EA0E}.Release|x64.Build.0 = Release|x64
+		{70C20515-A935-4810-AF4A-26E66428EA0E}.Release|x86.ActiveCfg = Release|Win32
+		{70C20515-A935-4810-AF4A-26E66428EA0E}.Release|x86.Build.0 = Release|Win32
+		{168669FB-C2E7-495C-941C-BB69AD87D66A}.Debug|x64.ActiveCfg = Debug
+		{168669FB-C2E7-495C-941C-BB69AD87D66A}.Debug|x86.ActiveCfg = Debug
+		{168669FB-C2E7-495C-941C-BB69AD87D66A}.Release|x64.ActiveCfg = Release
+		{168669FB-C2E7-495C-941C-BB69AD87D66A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DADE73FE-9FAA-4650-BF6D-22442D965928}
+	EndGlobalSection
+EndGlobal
