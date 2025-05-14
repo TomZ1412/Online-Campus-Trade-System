@@ -1,0 +1,11 @@
+﻿  utils.cpp
+E:\大一\作业\大二上\C++巅峰赛\server\server\utils.cpp(50,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大一\作业\大二上\C++巅峰赛\server\server\utils.cpp(55,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大一\作业\大二上\C++巅峰赛\server\server\utils.cpp(107,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大一\作业\大二上\C++巅峰赛\server\server\utils.cpp(112,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大一\作业\大二上\C++巅峰赛\server\server\utils.cpp(272,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大一\作业\大二上\C++巅峰赛\server\server\utils.cpp(393,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大一\作业\大二上\C++巅峰赛\server\server\utils.cpp(440,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大一\作业\大二上\C++巅峰赛\server\server\utils.cpp(591,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\大一\作业\大二上\C++巅峰赛\server\server\utils.cpp(745,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  server.vcxproj -> E:\大一\作业\大二上\C++巅峰赛\server\x64\Debug\server.exe
